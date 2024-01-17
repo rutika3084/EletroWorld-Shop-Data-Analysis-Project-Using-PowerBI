@@ -2,7 +2,7 @@
 
 This project aims to provide a comprehensive overview and insightful analysis of the sales and customer data for ElectroWorld, an online electronics retail store. By examining key metrics and patterns within the dataset, this analysis will assist the business in making informed decisions, optimizing inventory management, and enhancing customer satisfaction.
 
-Dataset Columns:
+# Dataset Columns:
 1. CustomerID: A unique identifier assigned to each customer, facilitating individual customer tracking.
 2. FirstName: The first name of the customer, allowing for personalized communication.
 3. LastName: The last name of the customer, providing a complete customer name for records.
@@ -17,12 +17,12 @@ Dataset Columns:
 12. TotalPrice: The total cost of the products in a specific order, considering the quantity and unit price.
 13. OrderDate: The date when the customer placed the order, facilitating time-based analysis and trends.
 
-Objectives:
+# Objectives:
 1. Sales Performance Analysis: Evaluate the overall sales performance by analyzing total sales, popular products, and revenue trends.
 2. Customer Segmentation: Segment customers based on location, purchasing behavior, and order frequency to tailor marketing strategies.
 5. Time-Based Trends: Explore patterns and trends over time to understand seasonality and optimize promotional activities.
 
-Benefits:
+# Benefits:
 1. Informed Decision-Making: Provide data-driven insights to support decision-making processes within the organization.
 2. Enhanced Customer Experience: Tailor marketing efforts and product offerings to meet customer expectations and preferences.
 3. Operational Efficiency: Optimize inventory management, reduce costs, and improve overall operational efficiency.
